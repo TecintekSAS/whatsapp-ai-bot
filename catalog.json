@@ -1,0 +1,46 @@
+{
+  "negocio": {
+    "nombre": "Tecintek S.A.S.",
+    "horario": "Lunes a viernes 8:00 a.m. - 6:00 p.m., sábados 8:00 a.m. - 1:00 p.m.",
+    "direccion": "Facatativá, Cundinamarca (también atendemos de forma remota)",
+    "telefono_asesor": "+57 312 562 0570"
+  },
+  "productos": [
+    {
+      "nombre": "Chatbot de WhatsApp con IA",
+      "precio": 1200000,
+      "descripcion": "Asistente 24/7 que responde clientes con tu catálogo, toma pedidos y pasa a un asesor.",
+      "palabras_clave": ["chatbot", "bot", "whatsapp", "asistente"]
+    },
+    {
+      "nombre": "Automatización de procesos",
+      "precio": 800000,
+      "descripcion": "Conectamos tus apps (correo, Excel, formularios, CRM) para eliminar tareas repetitivas.",
+      "palabras_clave": ["automatizacion", "automatizar", "n8n", "make", "zapier"]
+    },
+    {
+      "nombre": "Página web profesional",
+      "precio": 950000,
+      "descripcion": "Sitio web rápido, adaptable a celular, con botón de WhatsApp y dominio.",
+      "palabras_clave": ["pagina", "web", "sitio", "landing"]
+    },
+    {
+      "nombre": "Dashboard de ventas",
+      "precio": 700000,
+      "descripcion": "Tablero con tus indicadores en tiempo real a partir de Excel o Google Sheets.",
+      "palabras_clave": ["dashboard", "tablero", "reporte", "indicadores"]
+    },
+    {
+      "nombre": "Publicidad impresa",
+      "precio": 150000,
+      "descripcion": "Volantes, pendones, tarjetas y material POP. Precio desde, según cantidad.",
+      "palabras_clave": ["volantes", "pendon", "tarjetas", "impresion", "publicidad"]
+    },
+    {
+      "nombre": "Dotaciones y uniformes",
+      "precio": 85000,
+      "descripcion": "Uniformes empresariales con logo bordado o estampado. Precio por unidad desde.",
+      "palabras_clave": ["dotacion", "uniforme", "camisa", "bordado"]
+    }
+  ]
+}
